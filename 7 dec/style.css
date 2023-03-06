@@ -1,0 +1,132 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.h4{
+    
+    padding: 180px;
+    margin: 75px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+}
+
+.para{
+    font-size: 15px;
+    padding: 5px;
+  
+}
+
+.star{
+    padding: 2px;
+     padding-top: 130px;
+  
+}
+
+.p{
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.color{
+    padding: 35px;
+   padding-left: 10px;
+}
+
+#circle{
+    flex-wrap: wrap;
+    display: flex; 
+    padding-bottom: 5px; 
+}
+
+.circle1{
+    height: 50px;
+    width: 50px;
+    border: 0px solid black;
+     border-radius: 45px;
+     background-color: brown;
+     margin: 3px;
+     cursor: pointer;
+    
+}
+
+
+.circle2{
+    height: 50px;
+    width: 50px;
+    border: 0px solid black;
+    border-radius: 45px;
+    background-color: cadetblue;
+    margin: 3px;
+    cursor: pointer;
+    
+}
+
+.circle3{
+    height: 50px;
+    width: 50px;
+    border: 0px solid black;
+    border-radius: 45px;
+    background-color:violet;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.circle4{
+    height: 50px;
+    width: 50px;
+    border: 0px solid black;
+    border-radius: 45px;
+    background-color:black;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.h5{
+    padding: 10px;
+}
+
+.num{
+   margin-bottom: 80px;
+}
+
+#cart{
+    background-color:#088178;
+    margin-bottom: 40px;
+    margin: 10px;
+   
+}
+
+
+.heart{
+    height: 30px;
+    width: 50px;
+    padding: 4px;
+    border: 0px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: whitesmoke;
+}
+
+#face{
+    cursor: pointer;
+}
+
+#google{
+    cursor: pointer;
+}
+
+#twi{
+    cursor: pointer;
+}
+
+#insta{
+    cursor: pointer;
+}
+
+#you{
+    cursor: pointer;
+}
